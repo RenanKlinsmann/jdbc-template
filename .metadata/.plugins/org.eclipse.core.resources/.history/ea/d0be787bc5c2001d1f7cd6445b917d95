@@ -1,0 +1,5 @@
+package com.example.djdbc.repositories;
+
+public class ClienteRepositoryDAO {
+
+}
